@@ -2,7 +2,9 @@
 
 A modern weather dashboard built with Next.js 15, Tailwind CSS, and TypeScript. Features real-time weather data visualization, interactive charts, and a responsive UI component library.
 
-
+<a href="https://weatherly-weatherforecast.netlify.app/" target="_blank">
+  <img width="1345" height="631" alt="preview png" src="https://github.com/user-attachments/assets/bf1f82a6-f146-41ce-bb0b-500e8298da90" />
+</a>
 ## Features
 
 - Real-time weather conditions display
